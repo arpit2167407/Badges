@@ -1,0 +1,1 @@
+print("The Yolo badge")
